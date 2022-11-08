@@ -1,2 +1,3 @@
-# reddit-scraping
-Trying webscraping
+# Scraping Reddit threads
+
+Trying web scraping
